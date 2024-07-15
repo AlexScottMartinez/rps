@@ -16,7 +16,7 @@ Your game will be played against the computer. You will write a function that ra
 
 1. Create a new function named `getComputerChoice`.
 2. Write the code so that `getComputerChoice` will ramdomly `return` one of the following string values: "rock", "paper", or "scissors".
-  - **Hint**: The [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) method returns a random number that's greater than or equal to 0 and less than 1. Think about how you can use this to conditionally return one of the multiple choices.
+   - **Hint**: The [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) method returns a random number that's greater than or equal to 0 and less than 1. Think about how you can use this to conditionally return one of the multiple choices.
 3. Test that your function returns what you expect using `console.log` or [the browser developer tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools) before advancing to the next step.
 
 ## Step 3: Write the logic to get the human choice
@@ -24,7 +24,7 @@ Your game will be played by a human player. You will write a function that takes
 
 1. Create a new function named `getHumanChoice`.
 2. Write the code so that `getHumanChoice` will return one of the valid choices depending on what the user's inputs.
-  - **Hint**: Use the [prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) method to get the user's input.
+   - **Hint**: Use the [prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) method to get the user's input.
 3. Test what your function returns by using `console.log`.
 
 ## Step 4: Declare the players score variables
