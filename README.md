@@ -5,8 +5,8 @@ Rock Paper Scissors
 1. Create a new Git repository for your project.
 2. Create a blank HTML document eith a script tag.
 3. Check if JavaScript is linked correctly:  
-  - Write `console.log("Hello World")` in JavaScript.
-  - Check if "Hello World" is logged in the browser console once you open your webpage.
+   - Write `console.log("Hello World")` in JavaScript.
+   - Check if "Hello World" is logged in the browser console once you open your webpage.
 It’s best practice to link to an external JavaScript file inside this script tag. Using an external JavaScript file keeps your HTML file clean and organized.
 
 You don’t have to write additional code in the HTML file. This game is played entirely via the console.
